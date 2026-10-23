@@ -1,0 +1,17 @@
+# Compiled files
+*.o
+*.a
+*.dylib
+*.so
+*.out
+nexus
+
+# Build directories
+build/
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# Debugging
+*.dSYM/
